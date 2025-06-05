@@ -1,0 +1,135 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.box{
+    padding: 10px;
+}
+
+.bir{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+    gap: 3px;
+}
+
+.item{
+    width: 50px;
+    height: 50px;
+    background: orange;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+.ikki{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px; 
+    gap: 3px;
+}
+
+.uch{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px; 
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+}
+
+.tort{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px; 
+    display: flex;
+    gap: 3px;
+    justify-content: space-between;
+}
+
+.besh{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+    gap: 3px;
+}
+
+.olti{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px; 
+    display: flex;
+    gap: 3px;
+    justify-content: end;
+}
+
+.yetti{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px; 
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+}
+
+.sakkiz{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px; 
+    display: flex;
+    gap: 3px;
+    justify-content: space-between;
+}
+
+.toqqiz{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+    gap: 3px;
+}
+
+.on{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px;
+    display: flex;
+    align-items: end;
+    gap: 3px;
+}
+
+.onbirr{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.oniki{
+    width: 240px;
+    height: 240px;
+    background: purple;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 3px;
+}
